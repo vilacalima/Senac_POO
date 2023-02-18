@@ -19,6 +19,6 @@ public class Retangulo {
 	public void calcularAreaRetangulo() {
 		entrarBaseAltura();
 		area = base*altura;
-		System.out.println("Area: " + area);
+		System.out.println("Area retangulo: " + area);
 	}
 }
