@@ -1,4 +1,4 @@
-package Aula1;
+package Senac_POO.Aula1;
 
 public class Aula1 {
 
